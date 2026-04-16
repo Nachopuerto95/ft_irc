@@ -129,7 +129,9 @@ ft_irc/
 
 ### 📸 Demo
 
-<!-- TODO: añadir captura de dos clientes hablando en un canal -->
+<p align="center">
+  <img src="assets/irc-demo.png" alt="ft_irc — clientes hablando en un canal" width="600"/>
+</p>
 
 ### 👥 Equipo
 

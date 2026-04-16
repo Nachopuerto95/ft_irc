@@ -129,7 +129,9 @@ ft_irc/
 
 ### 📸 Demo
 
-<!-- TODO: add screenshot of two clients chatting in a channel -->
+<p align="center">
+  <img src="assets/irc-demo.png" alt="ft_irc — clients chatting in a channel" width="600"/>
+</p>
 
 ### 👥 Team
 
